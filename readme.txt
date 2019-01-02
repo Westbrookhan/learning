@@ -1,2 +1,2 @@
 learn git
-zongyouliyouba
+finished
